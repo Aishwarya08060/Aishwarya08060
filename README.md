@@ -29,4 +29,4 @@ To run the Power BI report download the attached (.pbix) file
 Contribution
 Contributions to this project are welcome! If you have any suggestions, improvements, or new features to add, please follow these steps:
 
-
+Fork the repository. Create a new branch (git checkout -b feature-branch). Make your changes and commit them (git commit -am 'Add new feature'). Push to the branch (git push origin feature-branch). Create a new pull request.
